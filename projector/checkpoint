@@ -1,0 +1,2 @@
+model_checkpoint_path: "G:/python_file/mnist/projector/"
+all_model_checkpoint_paths: "G:/python_file/mnist/projector/"

@@ -1,0 +1,4 @@
+embeddings {
+  tensor_name: "embedding_var:0"
+  metadata_path: "G:/python_file/mnist/projector/labels.tsv"
+}
